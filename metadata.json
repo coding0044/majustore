@@ -1,0 +1,6 @@
+{
+  "name": "MAJU STORE® - Luxury 3D Fashion E-Commerce",
+  "description": "Stay out of the loop. MAJU STORE® premium 3D fashion e-commerce experience featuring the Vol. 01 interactive circular lookbook, complete catalogue, and editorial shopping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
